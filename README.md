@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radosław Kołoczek</h1>
-<h3 align="center">A passionate fullstack developer from Poland. My love for programming started in 2020.</h3>
+<h3 align="center">A passionate web developer from Poland. My love for programming started in 2020.</h3>
 <h3 align="center">Since that time I consistently develop my skills and learn new technologies.</h3>
 
 &emsp;
