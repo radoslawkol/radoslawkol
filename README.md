@@ -14,6 +14,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=cs,prisma,docker)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radoslawkol&show_icons=true&locale=en&layout=compact" alt="radoslawkol" />
+## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radoslawkol)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=radoslawkol&show_icons=true&locale=en&layout=compact&theme=transparent" alt="radoslawkol" />
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=radoslawkol&show_icons=true&theme=transparent" alt="radoslawkol"/>
+</span>
