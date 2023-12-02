@@ -4,7 +4,7 @@
 
 &emsp;
 
-- 🌱 I’m currently learning **TypeScript, GraphQL**
+- 🌱 I’m currently learning C#
 
 - 💬 Ask me about **MERN**
 
