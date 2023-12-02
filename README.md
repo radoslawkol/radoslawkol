@@ -4,8 +4,6 @@
 
 &emsp;
 
-## Most recent project
-
 ## Technologies I know
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,ts,react,nextjs,jest,express,mongodb,figma,postman,git)
